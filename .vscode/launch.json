@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AtividadeApplication<atividade>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ac2.atividade.AtividadeApplication",
+            "projectName": "atividade",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
